@@ -7,4 +7,4 @@ Facebook is becoming an increasingly popular distributor of political news, espe
 
 ## About
 * This code was written using Jupyter Notebook. 
-* This project served as a cumulative project for our Data and Text Mining and Misinformation course.
+* This project served as a cumulative project for our Data and Text Mining and Misinformation course at Wellesley College (Fall 2020).
