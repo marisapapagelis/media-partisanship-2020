@@ -45,4 +45,4 @@ during data collection to store data frames of scraped data, and they were
 used in data exploration to import the data for exploration and analysis.
 
 * MarisaPapagelis_NatalieReid_PredictingMediaPartisanship.pdf - this is the 
-final research paper for our project.
+final research paper for our project which includes processes, analysis, and results.
