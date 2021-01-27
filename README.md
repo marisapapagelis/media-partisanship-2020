@@ -3,7 +3,7 @@ Facebook is becoming an increasingly popular distributor of political news, espe
 
 ## Authors
 * Marisa Papagelis [(marisapapagelis)](https://github.com/marisapapagelis)
-* Natalie Reid
+* Natalie Reid [(natalie-reid)](https://github.com/natalie-reid)
 
 ## About
 * This code was written using Jupyter Notebook. 
