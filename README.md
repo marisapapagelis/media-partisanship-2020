@@ -4,6 +4,9 @@ Facebook is becoming an increasingly popular distributor of political news, espe
 ## Demo 
 https://www.youtube.com/watch?v=kblGAGdj9GA&feature=youtu.be
 
+## Research Paper 
+https://github.com/marisapapagelis/media-partisanship-2020/blob/main/MarisaPapagelis_NatalieReid_PredictingMediaPartisanship.pdf
+
 ## Authors
 * Marisa Papagelis [(marisapapagelis)](https://github.com/marisapapagelis)
 * Natalie Reid [(natalie-reid)](https://github.com/natalie-reid)
